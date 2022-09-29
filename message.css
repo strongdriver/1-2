@@ -1,0 +1,25 @@
+div{
+	font-size:25px;
+}
+span{
+	color:red;
+}
+ul{
+	list-style-position: inside;
+}
+#box1{
+	padding-top:10px;
+	display: flex;
+	align-items:stretch;
+	/* border:3px solid red; */
+}
+#box1>div{
+	/* border:3px solid blue; */
+}
+#box2{
+	width:70%;
+	margin:auto;
+	padding:10px 0;
+	letter-spacing: 5px;
+	/* border:3px solid red; */
+}
